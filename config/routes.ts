@@ -48,6 +48,12 @@
 		component: './TodoList',
 		icon: 'UnorderedListOutlined',
 	},
+	{
+		path: '/profile-card-demo',
+		name: 'ProfileCard Demo',
+		component: './ProfileCardDemo',
+		icon: 'UserOutlined',
+	},
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
@@ -242,6 +248,12 @@
 				component: './QuanLyCongViecNhom/LichThongKe',
 			},
 		],
+	},
+	{
+		path: '/quan-ly-phong-hoc',
+		name: 'Quản lý phòng học',
+		icon: 'BankOutlined',
+		component: './QuanLyPhongHoc',
 	},
 
 	{
