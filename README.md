@@ -1,36 +1,13 @@
-# WEB BASE V3
+# Thành viên nhóm 4 lớp 06
 
-## Web base v3 based on:
+## B24DCCC119: Phạm Trung Hiếu (Nhóm trưởng)
+- Làm các services, models và routes, mock apis cho các bạn làm frontend pages
+## B24DCCC137: Phạm Tuấn Hùng
+- Làm pages DangNhap
+## B24DCCC059: Phan Lê Tiến Đạt 
+- Làm pages NguoiDung
+## B24DCCC227: Hoàng Đại Phúc
+- Làm pages LichThongKe
+## B24DCCC101: Phan Anh Hải
+- Làm pages CongViec
 
-- React 17, umijs, antd v4
-- TypeScript
-- SSO with Keycloak
-- Back-end: NestJS, PostgreSQL
-
-This project is initialized with [Web Base](https://pro.ant.design). Follow is the quick guide for how to use.
-
-## Environment Prepare
-
-Install `node_modules`:
-
-```bash
-yarn
-```
-
-## Provided Scripts
-
-RIPT S-Link provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start project
-
-```bash
-yarn start
-```
-
-### Build project
-
-```bash
-yarn build
-```
